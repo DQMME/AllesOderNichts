@@ -1,5 +1,4 @@
-
-rootProject.name = "pluginjam"
+rootProject.name = "allesodernichts"
 
 pluginManagement {
     repositories {

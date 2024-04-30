@@ -1,8 +1,7 @@
-name: PluginJam-2-KotlinFTW
-version: 0.1.0
-main: net.stckoverflw.pluginjam.PluginJamTwoPlugin
-api-version: 1.19
+name: AllesOderNichts
+version: 1.0
+main: de.dqmme.allesodernichts.AllesOderNichts
+api-version: 1.20
 load: STARTUP
 
-authors: [l4zs, Coole Pizza, StckOverflw, DQMME]
-website: https://github.com/KtFTW
+authors: [ l4zs, Coole Pizza, StckOverflw, DQMME ]
