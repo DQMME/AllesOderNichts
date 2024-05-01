@@ -3,4 +3,4 @@ This is a small game mode that [cedricmkl](https://github.com/cedricmkl), [l4zs]
 
 https://github.com/KtFTW/PluginJam-2
 
-I like playing this game with my friends and I added a Timer so the game doens't needs to be started
+I like playing this game with my friends and I added a Timer so the game doesn't need to be started
